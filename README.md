@@ -4,7 +4,7 @@ A small utilities to scan process memory and search patterns using frida with a 
 
 ## Usage
 ```
-Usage: frida-scan.py [options] <process_to_hook>Cancel changes
+Usage: frida-scan.py [options] <process_to_hook>
 
 Options:
   --version     show program's version number and exit
